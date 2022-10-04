@@ -1,14 +1,14 @@
 
 public class Persona {
 	
-	private String nombre;
+	private String name;
 	
-	public Persona(String nombre) {
-		this.nombre=nombre;
+	public Persona(String name) {
+		this.name=name;
 	}
 	
 	public String getNombre() {
-		return nombre;
+		return name;
 	}
 
 }
